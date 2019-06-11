@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "tutorialmod:item/tutorialmod_item_axe"
+    }
+}

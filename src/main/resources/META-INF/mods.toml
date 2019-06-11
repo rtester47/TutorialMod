@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+loaderVersion="[25,)" #mandatory (24 is current forge version)
+credits="Thanks to Harry Talks for his amazing tutorials!" #optional
+authors="UncleBrick" #optional
+
+[[mods]] #mandatory
+modId="tutorialmod" #mandatory
+version="0.1" #mandatory
+displayName="UncleBrick's Tutorial Mod" #mandatory
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+This is a ForgeMod based on a tutorial series by
+Harry Talks 1.13 forge modding.  
+'''
+[[dependencies.tutorialmod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[25,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+# Here's another dependency
+[[dependencies.tutorialmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.13.2]"
+    ordering="NONE"
+    side="BOTH"

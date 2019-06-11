@@ -1,0 +1,22 @@
+{
+	"block.tutorialmod.tutorialmod_block_block": "Tutorial Block",
+	"block.tutorialmod.tutorialmod_block_ore_end": "Tutorial Endstone Ore",
+	"block.tutorialmod.tutorialmod_block_ore_nether": "Tutorial Nether Ore",
+	"block.tutorialmod.tutorialmod_block_ore": "Tutorial Ore",
+	"block.tutorialmod.tutorialmod_block_stairs": "Tutorial Stairs",
+	"block.tutorialmod.tutorialmod_block_slab": "Tutorial Slab",
+	
+	"item.tutorialmod.tutorialmod_item_axe": "Tutorial Axe",
+	"item.tutorialmod.tutorialmod_item_boots": "Tutorial Boots",
+	"item.tutorialmod.tutorialmod_item_chestplate": "Tutorial Chestplate",
+	"item.tutorialmod.tutorialmod_item_helmet": "Tutorial Helmet",
+	"item.tutorialmod.tutorialmod_item_hoe": "Tutorial Hoe",
+	"item.tutorialmod.tutorialmod_item_ingot": "Tutorial Ingot",
+	"item.tutorialmod.tutorialmod_item_leggings": "Tutorial Leggings",
+	"item.tutorialmod.tutorialmod_item_nugget": "Tutorial Nugget",
+	"item.tutorialmod.tutorialmod_item_pickaxe": "Tutorial Pickaxe",
+	"item.tutorialmod.tutorialmod_item_shovel": "Tutorial Shovel",
+	"item.tutorialmod.tutorialmod_item_sword": "Tutorial Sword",
+	
+	"itemGroup.tutorialmod_tab": "TutorialMod"
+}
